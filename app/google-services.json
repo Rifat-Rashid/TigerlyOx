@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "100418738606",
+    "firebase_url": "https://tigerlyox-mnair.firebaseio.com",
+    "project_id": "tigerlyox-mnair",
+    "storage_bucket": "tigerlyox-mnair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100418738606:android:13d644eb8a3aedea",
+        "android_client_info": {
+          "package_name": "com.novaconsulting.rashid.tigerlyox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100418738606-ebos81hoad2ss8bv9fc55edjolau23c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novaconsulting.rashid.tigerlyox",
+            "certificate_hash": "ad2b666b73e66abe53c50fac7e5eda8491056cc0"
+          }
+        },
+        {
+          "client_id": "100418738606-k91ekvbfs1o38sopklk7kbb9si2c7o8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDOFPiCjd3920DzE_Zll6DUdalWTEgCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100418738606-k91ekvbfs1o38sopklk7kbb9si2c7o8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
